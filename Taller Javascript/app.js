@@ -432,5 +432,21 @@
 //}
 
 
+//let frutas = [];
 
+
+// Lista de frutas para agregar al array
+//let listaFrutas = ["Manzana", "Banana", "Naranja", "Mango", "Pera", "Uva", //"Kiwi", "Cereza"];
+
+
+// Llenamos el array frutas usando un ciclo for
+//for (let i = 0; i < listaFrutas.length; i++) {
+//    frutas.push(listaFrutas[i]);
+//}
+
+
+// Imprimir lista enumerada en consola
+//for (let i = 0; i < frutas.length; i++) {
+//    console.log((i + 1) + ". " + frutas[i]);
+//}
 
